@@ -1,0 +1,73 @@
+======================================================================
+TOPIC COMPARISON SUMMARY: KESMA vs. INDEPENDENT OUTLETS
+======================================================================
+
+────────────────────────────────────────────────────────────
+  ROUND 2 (first-pass topics)
+────────────────────────────────────────────────────────────
+
+  Top 5 topics by coverage:
+  KESMA                                     Independent                             
+  0 orbán magyar viktor orbán viktor (89.0%)  0 magyar orbán választási fidesz (18.8%)
+  1 forint milliárd szijjártó péter szi… (2.2%)  1 izraeli izrael iráni irán (14.6%)     
+  2 szijjártó szijjártó péter keleten p… (1.7%)  2 bence szabó szabó bence nyomozó (6.4%)
+  3 férfi férfit rendőr rendőrség (1.5%)    3 orosz putyin szijjártó vlagyimir (6.0%)
+  4 termékek hatóság élelmiszer nemzeti (1.4%)  4 barátság kőolajvezeték barátság kőo… (4.8%)
+
+  Top 5 most similar topic pairs (by Jaccard keyword overlap):
+  [0.33]  KESMA: 5 bank jegybank nemzeti bank magya…  ↔  Indep: 7 milliárd mnb forint bank
+         Shared (5): bank, forint, magyar, magyar nemzeti, nemzeti bank
+         KESMA only (5): 25, jegybank, magyarországon, nemzeti, százalékos
+         Indep only (5): forintot, hadházy, milliárd, millió, mnb
+  [0.25]  KESMA: 0 orbán magyar viktor orbán viktor  ↔  Indep: 0 magyar orbán választási fidesz
+         Shared (4): magyar, orbán, péter, tisza
+         KESMA only (6): európai, miniszterelnök, orbán viktor, ukrán, videó, viktor
+         Indep only (6): dk, fidesz, magyar péter, párt, választási, választáson
+  [0.25]  KESMA: 2 szijjártó szijjártó péter kelete…  ↔  Indep: 9 mentesítő rekedt air szijjártó
+         Shared (4): haza, keleti, szijjártó, szijjártó péter
+         KESMA only (6): arab, keleten, külgazdasági, péter, repülőtér, térségben
+         Indep only (6): air, helyzet, járat, keletről, mentesítő, rekedt
+  [0.18]  KESMA: 1 forint milliárd szijjártó péter…  ↔  Indep: 3 orosz putyin szijjártó vlagyimir
+         Shared (3): péter, szijjártó, szijjártó péter
+         KESMA only (7): forint, hazai, kft, külgazdasági, milliárd, milliárd forint, értékben
+         Indep only (7): kreml, magyar, orosz, oroszország, putyin, vlagyimir, vlagyimir putyin
+  [0.18]  KESMA: 2 szijjártó szijjártó péter kelete…  ↔  Indep: 3 orosz putyin szijjártó vlagyimir
+         Shared (3): péter, szijjártó, szijjártó péter
+         KESMA only (7): arab, haza, keleten, keleti, külgazdasági, repülőtér, térségben
+         Indep only (7): kreml, magyar, orosz, oroszország, putyin, vlagyimir, vlagyimir putyin
+
+────────────────────────────────────────────────────────────
+  ROUND 3 (deep-dive on KESMA topic 0)
+────────────────────────────────────────────────────────────
+
+  Top 5 topics by coverage:
+  KESMA                                     Independent                             
+  0 ukrán zelenszkij magyar európai (39.6%)  1 magyar orbán péter magyar péter (48.9%)
+  1 viktor orbán viktor orbán miniszter… (13.3%)  0 választási párt fidesz tisza (20.5%)  
+  2 panyi külföldi szabolcs tiszás (5.8%)   2 vance amerikai alelnök fideszre ale… (15.9%)
+  3 védett tisza kapitány párt (5.7%)       3 orbán viktor orbán viktor orbán vik… (14.8%)
+  4 orosz ukrán erők drónok (4.8%)          —                                       
+
+  Top 5 most similar topic pairs (by Jaccard keyword overlap):
+  [0.54]  KESMA: 8 vance amerikai alelnök amerikai…  ↔  Indep: 2 vance amerikai alelnök fideszre…
+         Shared (7): alelnök, amerikai, amerikai alelnök, jd, jd vance, vance, vance amerikai
+         KESMA only (3): donald, orbán, trump
+         Indep only (3): fideszre, függetlenül, pontos
+  [0.43]  KESMA: 5 fidesz választási országgyűlési…  ↔  Indep: 0 választási párt fidesz tisza
+         Shared (6): 12, fidesz, választás, választási, április, április 12
+         KESMA only (4): egyéni, iroda, nemzeti, országgyűlési
+         Indep only (4): magyar, párt, tisza, tisza párt
+  [0.33]  KESMA: 0 ukrán zelenszkij magyar európai  ↔  Indep: 1 magyar orbán péter magyar péter
+         Shared (5): magyar, magyar péter, orbán, péter, ukrán
+         KESMA only (5): barátság, európai, magyarország, ukrajna, zelenszkij
+         Indep only (5): gábor, miniszterelnök, orbán viktor, tisza, viktor
+  [0.25]  KESMA: 1 viktor orbán viktor orbán minisz…  ↔  Indep: 1 magyar orbán péter magyar péter
+         Shared (4): miniszterelnök, orbán, orbán viktor, viktor
+         KESMA only (6): békemenet, hatalmas, közösségi, oldalán, országjárása, tömeg
+         Indep only (6): gábor, magyar, magyar péter, péter, tisza, ukrán
+  [0.25]  KESMA: 1 viktor orbán viktor orbán minisz…  ↔  Indep: 3 orbán viktor orbán viktor orbán…
+         Shared (4): miniszterelnök, orbán, orbán viktor, viktor
+         KESMA only (6): békemenet, hatalmas, közösségi, oldalán, országjárása, tömeg
+         Indep only (6): lázár, orbán viktort, szabó, színpadon, történt, viktort
+
+======================================================================

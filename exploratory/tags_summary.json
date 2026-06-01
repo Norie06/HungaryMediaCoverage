@@ -1,0 +1,92 @@
+{
+  "24hu": {
+    "total_tags": 100,
+    "top_10": [
+      "irán",
+      "orbán viktor",
+      "magyar péter",
+      "választás 2026",
+      "fidesz",
+      "háború",
+      "izrael",
+      "donald trump",
+      "bűnügy",
+      "március 15"
+    ]
+  },
+  "444": {
+    "total_tags": 100,
+    "top_10": [
+      "választás 2026",
+      "politika",
+      "külföld",
+      "orbán viktor",
+      "fidesz",
+      "belföld",
+      "tisza párt",
+      "magyar péter",
+      "egyesült államok",
+      "donald trump"
+    ]
+  },
+  "magyarnemzet": {
+    "total_tags": 100,
+    "top_10": [
+      "ukrajna",
+      "orbán viktor",
+      "választás 2026",
+      "magyar péter",
+      "tisza párt",
+      "orosz-ukrán háború",
+      "szijjártó péter",
+      "irán",
+      "brüsszel",
+      "zelenszkij"
+    ]
+  },
+  "mandiner": {
+    "total_tags": 100,
+    "top_10": [
+      "ukrajna",
+      "orbán viktor",
+      "magyar péter",
+      "tisza párt",
+      "magyarország",
+      "háború",
+      "európai unió",
+      "volodimir zelenszkij",
+      "fidesz",
+      "brüsszel"
+    ]
+  },
+  "origo": {
+    "total_tags": 100,
+    "top_10": [
+      "választás 2026",
+      "orbán viktor",
+      "ukrajna",
+      "tisza párt",
+      "magyar péter",
+      "szijjártó péter",
+      "orosz-ukrán háború",
+      "baleset",
+      "brüsszel",
+      "magyarország"
+    ]
+  },
+  "telex": {
+    "total_tags": 21,
+    "top_10": [
+      "külföld",
+      "belföld",
+      "gazdaság",
+      "videó",
+      "zacc",
+      "podcast",
+      "direkt36",
+      "interjú",
+      "techtud",
+      "névérték"
+    ]
+  }
+}
