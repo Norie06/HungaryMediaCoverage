@@ -1,0 +1,42 @@
+Topic_id,Timestamp,Outlet group,Source
+kt0,"orbán, magyar, viktor, orbán viktor, ukrán, péter, tisza, európai, miniszterelnök, videó",KESMA,R2
+kt1,"forint, milliárd, szijjártó péter, szijjártó, kft, milliárd forint, péter, külgazdasági, hazai, értékben",KESMA,R2
+kt2,"szijjártó, szijjártó péter, keleten, péter, arab, haza, keleti, repülőtér, külgazdasági, térségben",KESMA,R2
+kt3,"termékek, hatóság, élelmiszer, nemzeti, kereskedelmi, veszélyes, vállalat, kft, piacon, onlin",KESMA,R2
+kt4,"bank, jegybank, nemzeti bank, magyar nemzeti, 25, forint, nemzeti, magyar, százalékos, magyarországon",KESMA,R2
+it0,"magyar, orbán, választási, fidesz, párt, magyar péter, dk, péter, tisza, választáson",Independent,R2
+it1,"izraeli, izrael, iráni, irán, libanoni, hadsereg, izraeli hadsereg, védelmi, egyesült, erők",Independent,R2
+it2,"bence, szabó, szabó bence, nyomozó, alkotmányvédelmi, direkt36, tisza, gulyás, titkosszolgálati, alkotmányvédelmi hivatal",Independent,R2
+it3,"orosz, putyin, szijjártó, vlagyimir, szijjártó péter, vlagyimir putyin, magyar, oroszország, péter, kreml",Independent,R2
+it4,"barátság, kőolajvezeték, barátság kőolajvezeték, európai, ukrajna, orosz, zelenszkij, orbán, vezeték, szlovák",Independent,R2
+it5,"megölték, ali, vezetőjét, valóban, ali hamenei, hamenei, légicsapásokban, ajatollahot, hamenei ajatollahot, hameneit",Independent,R2
+it6,"védett, üzemanyag, kormány, ár, benzin, áron, dízel, rendkívüli, magyar, liter",Independent,R2
+it7,"milliárd, mnb, forint, bank, magyar nemzeti, nemzeti bank, forintot, millió, hadházy, magya",Independent,R2
+it8,"medián, tisza, 21, 21 kutatóközpont, körében, kutatóközpont, biztos, vezet, választani, intézet",Independent,R2
+it9,"mentesítő, rekedt, air, szijjártó, keleti, haza, szijjártó péter, helyzet, járat, keletről",Independent,R2
+it10,"plakátokat, választási, plakátok, kossuth, fideszes, videót, díjat, jakab, péter, takács",Independent,R2
+it11,"ukrán, pénzszállítók, ukrán pénzszállítók, pénzszállító, lefoglalt, tek, magyar hatóságok, hatóságok, ügyvédje, nav",Independent,R2
+it12,"gyula, orvos, országos, intézet, lemondott, orvosi, kórházi, osztrák, főigazgatója, főigazgat",Independent,R2
+it13,"rendszerbontó, puzsér, hősök, hősök terén, színpadra, terén, mocskos, nagykoncerten, rendszerbontó nagykoncerten, puzsér róbert",Independent,R2
+it14,"kubai, spanyol, trump, vitályos, ausztria, szentendrén, amerikai, vitályos eszter, eszter, katonai",Independent,R2
+it15,"amerikai hadsereg, hadsereg, iráni, áldozatainak száma, áldozatainak, meghalt irán, meghalhatott, tájékoztató, tegnapi, parancsnokságának",Independent,R2
+it16,"444, percről percre, percről, győztesnek, percre, turisztikai, ügynöksége, békemenetet, nemzeti meneten, kormánypárti média",Independent,R2
+it17,"békemenet, andrássy, tömeg, menet, eleje, hősök, margit, kossuth, téren, andrássy úton",Independent,R2
+it18,"drón, dróntámadás, dubaji, repülőtér, drónok, közelében, drónt, drón csapódott, nemzetközi repülőtér, amerikai",Independent,R2
+it19,"catl, debreceni, debreceni catl, debrecen, veszélyes, tárkányi, tárkányi zsolt, anyagokat, kft, vizsgálatot",Independent,R2
+kst0,"ukrán, zelenszkij, magyar, európai, ukrajna, barátság, péter, orbán, magyar péter, magyarország",KESMA,R3
+kst1,"viktor, orbán viktor, orbán, miniszterelnök, tömeg, békemenet, országjárása, hatalmas, oldalán, közösségi",KESMA,R3
+kst2,"panyi, külföldi, szabolcs, tiszás, szijjártó, tisza, szijjártó péter, újságíró, titkosszolgálati, péter",KESMA,R3
+kst3,"védett, tisza, kapitány, párt, tisza párt, kapitány istván, istván, rezsicsökkentés, tiszás, magyar",KESMA,R3
+kst4,"orosz, ukrán, erők, drónok, oroszország, drón, ukrajna, támadás, independent, március",KESMA,R3
+kst5,"fidesz, választási, országgyűlési, nemzeti, egyéni, választás, iroda, 12, április, április 12",KESMA,R3
+kst6,"migrációs, spanyol, migráció, németországban, illegális, európai, európa, német, iráni, nyugat",KESMA,R3
+kst7,"trump, donald, donald trump, irán, amerikai, amerikai elnök, elnök, egyesült, iráni, államok",KESMA,R3
+kst8,"vance, amerikai, alelnök, amerikai alelnök, jd, jd vance, trump, vance amerikai, donald, orbán",KESMA,R3
+kst9,"hormuzi, irán, globális, szoros, iráni, olaj, hormuzi szoros, világ, háború, tengeri",KESMA,R3
+kst10,"tiszás, puzsér, fidesz, nyitókép, fiatalok, rendszerbontó, róbert, videó, tiszások, hann",KESMA,R3
+kst11,"izrael, irán, izraeli, iráni, egyesült, államok, indított, egyesült államok, teherán, katonai",KESMA,R3
+kst12,"áramlat, török, török áramlat, szerb, gázvezeték, találtak, közelében, magyarországot, áramlatot, északi",KESMA,R3
+kst13,"balázs, egyetem, magyar, alapítvány, felelős, oktatási, ferenc, miniszter, felelős miniszter, idei",KESMA,R3
+kst14,"radnai, magyar péter, radnai márk, márk, péter, magyar, kocsis, tisza, kocsis máté, máté",KESMA,R3
+kst15,"ukrajnában, férfit, férfi, felvétel, utcán, ukrán, ukrajnai, látható, videó, férfiakat",KESMA,R3
